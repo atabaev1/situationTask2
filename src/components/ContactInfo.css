@@ -1,0 +1,20 @@
+.contact-info {
+    background-color: #e9ecef;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .contact-info h2 {
+    margin-bottom: 20px;
+  }
+  
+  .contact-info a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
+  
