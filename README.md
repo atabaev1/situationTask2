@@ -1,3 +1,38 @@
+# Description of the task:
+You have joined our web application development team. This week we are launching the Innovatech VR Pro, which has numerous unique features. To successfully launch the product, we need to create an online platform where users can get detailed information about Innovatech VR Pro, place pre-orders, and receive updates about its release.
+
+# Task 1: Automating application deployment
+
+**Customer company:** E-commerce company "Innovatech"
+**Additional requirements:**
+
+- Deploying a web application on a server using a React JS.
+# Screenshots:
+
+![1](https://github.com/atabaev1/situationTask2/assets/105366009/372ae4d9-70e6-42d5-bcfa-8aa943e2f259)
+
+![code](https://github.com/atabaev1/situationTask2/assets/105366009/ae550258-e63c-40b1-8c0c-1074d3971731)
+
+![product](https://github.com/atabaev1/situationTask2/assets/105366009/a14fb329-8c28-4d32-8e01-4bf8f0791ef3)
+
+![order](https://github.com/atabaev1/situationTask2/assets/105366009/9b9463b5-acb9-455e-92a7-84eee7afb2ed)
+
+![news](https://github.com/atabaev1/situationTask2/assets/105366009/fad51244-ae89-40a7-9172-01b52a95b7a8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
